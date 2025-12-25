@@ -1,0 +1,7 @@
+{
+  "name": "墨影文枢: AI 创意写作",
+  "description": "一个沉浸式的创意写作平台，通过 AI 分析您的图片，为您撰写充满氛围感的故事开篇，并提供富有情感的语音朗读。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
